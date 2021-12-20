@@ -3,9 +3,10 @@
 I'm Muhammad,
  - Software Engineer focusing on Backend engineering and passionate about the software industry and loves coding in Python.
  - interested in fintech, e-commerce, and SaaS apps.
+ 
 How to reach me:
  - mmostafa@ieee-zsb.org
- - linkedin.com/in/mmostafa74/
+ - <a href="https://www.linkedin.com/in/mmostafa74/">linkedin.com/in/mmostafa74/</a>
 ---
 ### Stats
 <p>
