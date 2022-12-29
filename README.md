@@ -15,7 +15,7 @@ How to reach me:
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmostafa74&layout=compact" alt="Muhammad's top languages">
-  <img src ="https://activity-graph.herokuapp.com/graph?username=mmostafa74&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="420" height="165">
+<!--   <img src ="https://activity-graph.herokuapp.com/graph?username=mmostafa74&bg_color=ffffff&color=0400ff&line=0400ff&point=03d3d&area=true&hide_border=true" width="420" height="165"> -->
 </p>
 
 <!--
